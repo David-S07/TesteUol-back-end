@@ -1,0 +1,9 @@
+INSERT INTO incidentes(incidente_id, nome) VALUES(1 ,'João');
+INSERT INTO incidentes(incidente_id, nome) VALUES(2 ,'Maria');
+INSERT INTO incidentes(incidente_id, nome) VALUES(3 ,'Zeca');
+INSERT INTO incidentes(incidente_id, nome) VALUES(4 ,'Mario');
+INSERT INTO incidentes(incidente_id, nome) VALUES(5 ,'Gustavo');
+INSERT INTO incidentes(incidente_id, nome) VALUES(6 ,'Camila');
+INSERT INTO incidentes(incidente_id, nome) VALUES(7 ,'Pedro');
+INSERT INTO incidentes(incidente_id, nome) VALUES(8 ,'Juliana');
+INSERT INTO incidentes(incidente_id, nome) VALUES(9 ,'Gisele');
